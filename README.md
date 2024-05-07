@@ -1,5 +1,7 @@
 # Museum Landing Page
 
+The Museum Landing Page is a visually appealing and informative website designed to showcase the museum's events, gallery and information. The page offers a clean and structured layout that enhances user experience. [Figma design](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit))
+
 ## Technologies Used
 
 - **HTML**: Markup language for structuring the content and layout of the webpage.
@@ -13,10 +15,6 @@
 | Install | `npm install`   |
 | Start   | `npm run start` |
 | Build   | `npm run build` |
-
-## Design
-
-[Figma](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit))
 
 ## Demo
 
