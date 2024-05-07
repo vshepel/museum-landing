@@ -1,0 +1,2 @@
+function e(){"#menu"===window.location.hash?document.body.classList.add("page__body--with-menu"):document.body.classList.remove("page__body--with-menu")}window.addEventListener("load",e),window.addEventListener("hashchange",e),document.getElementById("form-reload").addEventListener("submit",function(e){e.preventDefault(),e.target.reset()}),new Swiper(".slider",{loop:!0,spaceBetween:20,slidesPerView:1,pagination:{el:".slider__pagination",clickable:!0},breakpoints:{768:{slidesPerView:2}}}).enable();
+//# sourceMappingURL=index.1849affe.js.map
